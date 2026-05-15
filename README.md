@@ -1,4 +1,7 @@
+<img width="855" height="1117" alt="image" src="https://github.com/user-attachments/assets/0661f88c-87ce-4204-a817-6722da552db9" />
+
 # Practical Linear Algebra for Data Science
+
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/downloads/)
